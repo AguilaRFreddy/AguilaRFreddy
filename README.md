@@ -62,7 +62,9 @@
 ## 📊 Estadísticas
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AguilaRFreddy&theme=tokyonight&show_icons=true" alt="Estadísticas de GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AguilaRFreddy&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AguilaRFreddy&theme=tokyonight&hide_border=true&layout=compact" alt="Lenguajes más usados" />
 </div>
 
 ---
