@@ -1,15 +1,72 @@
-<h1 align="center">Hi 🤝​, I'm AguilaRFreddy</h1>
-<h3 align="center">Estudiante de ingenieria en sistemas computacionales en el Instituto tecnologico de morelia</h3>
+<div align="center">
+    <h1>¡Hola, soy AguilaRFreddy!</h1>
+    <p>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Estudiante+de+Ingenieria;Apasionado+por+la+Tecnologia" alt="Typing SVG" />
+    </p>
+    <img src="./moon.jpg" alt="Profile" />
+</div>
 
-![Picsart-24-02-24-19-43-41-283-01-1.jpg](https://i.postimg.cc/Z5V1vW6g/Picsart-24-02-24-19-43-41-283-01-1.jpg)]
+---
 
+## 📚 Sobre Mí
 
-- ⚡ Fun fact **CODM A1fA396**
+<table>
+<tr>
+<td width="50%">
 
-<h3 align="left">Toca aqui :</h3>
-<p align="left">
-<a href="https://fb.com/alfredo aguilar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alfredo aguilar" height="30" width="40" /></a>
-<a href="https://instagram.com/fr3ddyaguilar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fr3ddyaguilar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@aguilar7239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aguilar7239" height="30" width="40" /></a>
-<a href="https://discord.gg/9BcQbfHN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9BcQbfHN" height="30" width="40" /></a>
-</p>
+🎓 **Formación**
+- Instituto Tecnológico de Morelia
+- Ingeniería en Sistemas Computacionales
+
+💻 **Intereses**
+- Tecnología
+- Networking
+- Bases de Datos
+- Desarrollo de Soluciones
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+    <img src="./snake.svg" alt="Snake" />
+</div>
+
+---
+
+## 🌐 Conecta Conmigo
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+<a href="https://fb.com/alfredo aguilar">
+<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+</a>
+</td>
+<td>
+<a href="https://instagram.com/fr3ddyaguilar">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 Estadísticas
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AguilaRFreddy&theme=tokyonight&show_icons=true" alt="Estadísticas de GitHub" />
+</div>
+
+---
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=AguilaRFreddy&color=00D9FF" alt="Profile views" />
+</div>
